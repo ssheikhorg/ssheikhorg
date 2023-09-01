@@ -16,16 +16,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="27"> I'm Shapon Sheikh 😄 and I'm from <img src="https://cdn.countryflags.com/thumbs/bangladesh/flag-3d-250.png" height="27" />
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="27"> I'm Shapon Sheikh
 </h1>
-
-<h4 align="center">
-  <p>I'd a Bachelor degree on Information Technology, Senior Backend Developer at <a href="https://yotech.ltd/people/sheikh-shapon">@yotech</a></p>
-</h4>
-
-<h3 align="center">
-  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="13"> me llamo Leynier Gutiérrez González 👨🏻‍💻 y soy de <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="13" />
-</h3>
 
 <h5 align="center">
   <p>Soy Licenciado en Ciencia de la Computación, Jefe de Ingeniería en <a href="https://educup.io">@educup</a>, CTO/Cofundador de <a href="https://mesirve.app">mesirve.app</a> - <a href="https://github.com/lynot">@lynot</a>, Profesor en <a href="https://github.com/matcom">@matcom</a> y entusiasta del <code>#opensource</code></p>
